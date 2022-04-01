@@ -1,0 +1,17 @@
+{
+  "name": "lucasdev/upload_zip_poc",
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Lucas Pereira de Oliveira",
+      "email": "lucas.pereira.oli.dev@hotmail.com"
+    }
+  ],
+  "require": {
+    "nelexa/zip": "^4.0"
+  }
+}
